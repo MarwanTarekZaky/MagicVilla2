@@ -1,0 +1,156 @@
+2025-03-10 00:12:26.521 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-03-10 00:12:26.573 +02:00 [DBG] Hosting starting
+2025-03-10 00:12:26.649 +02:00 [INF] Now listening on: http://localhost:5180
+2025-03-10 00:12:26.649 +02:00 [DBG] Loaded hosting startup assembly MagicVilla2_API
+2025-03-10 00:12:26.649 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-10 00:12:26.649 +02:00 [INF] Hosting environment: Development
+2025-03-10 00:12:26.649 +02:00 [INF] Content root path: /Users/marwantarek/development/C# projects trying/MagicVilla2/MagicVilla2_API
+2025-03-10 00:12:26.650 +02:00 [DBG] Hosting started
+2025-03-10 00:12:26.868 +02:00 [DBG] Connection id "0HNAVATSUL2GR" received FIN.
+2025-03-10 00:12:26.871 +02:00 [DBG] Connection id "0HNAVATSUL2GR" accepted.
+2025-03-10 00:12:26.872 +02:00 [DBG] Connection id "0HNAVATSUL2GR" started.
+2025-03-10 00:12:26.877 +02:00 [DBG] Connection id "0HNAVATSUL2GR" sending FIN because: "The client closed the connection."
+2025-03-10 00:12:26.881 +02:00 [DBG] Connection id "0HNAVATSUL2GR" disconnecting.
+2025-03-10 00:12:26.883 +02:00 [DBG] Connection id "0HNAVATSUL2GR" stopped.
+2025-03-10 00:12:27.047 +02:00 [DBG] Connection id "0HNAVATSUL2GS" accepted.
+2025-03-10 00:12:27.047 +02:00 [DBG] Connection id "0HNAVATSUL2GS" started.
+2025-03-10 00:12:27.048 +02:00 [DBG] Connection id "0HNAVATSUL2GT" accepted.
+2025-03-10 00:12:27.048 +02:00 [DBG] Connection id "0HNAVATSUL2GT" started.
+2025-03-10 00:12:27.079 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5180/swagger/index.html - -
+2025-03-10 00:12:27.080 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-03-10 00:12:27.094 +02:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-03-10 00:12:27.094 +02:00 [DBG] Request did not match any endpoints
+2025-03-10 00:12:27.210 +02:00 [DBG] Connection id "0HNAVATSUL2GS" completed keep alive response.
+2025-03-10 00:12:27.213 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5180/swagger/index.html - - - 200 - text/html;charset=utf-8 134.2604ms
+2025-03-10 00:12:27.360 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5180/swagger/v1/swagger.json - -
+2025-03-10 00:12:27.360 +02:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-03-10 00:12:27.360 +02:00 [DBG] Request did not match any endpoints
+2025-03-10 00:12:27.497 +02:00 [DBG] Connection id "0HNAVATSUL2GS" completed keep alive response.
+2025-03-10 00:12:27.497 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5180/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 137.1838ms
+2025-03-10 00:12:31.162 +02:00 [DBG] Connection id "0HNAVATSUL2GT" received FIN.
+2025-03-10 00:12:31.162 +02:00 [DBG] Connection id "0HNAVATSUL2GS" received FIN.
+2025-03-10 00:12:31.163 +02:00 [DBG] Connection id "0HNAVATSUL2GS" sending FIN because: "The client closed the connection."
+2025-03-10 00:12:31.163 +02:00 [DBG] Connection id "0HNAVATSUL2GT" sending FIN because: "The client closed the connection."
+2025-03-10 00:12:31.167 +02:00 [DBG] Connection id "0HNAVATSUL2GS" disconnecting.
+2025-03-10 00:12:31.167 +02:00 [DBG] Connection id "0HNAVATSUL2GT" disconnecting.
+2025-03-10 00:12:31.173 +02:00 [DBG] Connection id "0HNAVATSUL2GS" stopped.
+2025-03-10 00:12:31.173 +02:00 [DBG] Connection id "0HNAVATSUL2GT" stopped.
+2025-03-10 00:12:31.542 +02:00 [DBG] Connection id "0HNAVATSUL2GU" accepted.
+2025-03-10 00:12:31.543 +02:00 [DBG] Connection id "0HNAVATSUL2GU" started.
+2025-03-10 00:12:31.544 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5180/api/VillaAPI - -
+2025-03-10 00:12:31.550 +02:00 [DBG] 1 candidate(s) found for the request path '/api/VillaAPI'
+2025-03-10 00:12:31.553 +02:00 [DBG] Endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)' with route pattern 'api/VillaAPI' is valid for the request path '/api/VillaAPI'
+2025-03-10 00:12:31.554 +02:00 [DBG] Request matched endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)'
+2025-03-10 00:12:31.556 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-03-10 00:12:31.559 +02:00 [WRN] Failed to determine the https port for redirect.
+2025-03-10 00:12:31.563 +02:00 [INF] Executing endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)'
+2025-03-10 00:12:31.573 +02:00 [INF] Route matched with {action = "GetVillas", controller = "VillaAPI"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[MagicVilla2_API.Models.Dto.VillaDTO]] GetVillas() on controller MagicVilla2_API.Controllers.VillaAPIController (MagicVilla2_API).
+2025-03-10 00:12:31.574 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-03-10 00:12:31.574 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-03-10 00:12:31.574 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2025-03-10 00:12:31.574 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-03-10 00:12:31.574 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2025-03-10 00:12:31.575 +02:00 [DBG] Executing controller factory for controller MagicVilla2_API.Controllers.VillaAPIController (MagicVilla2_API)
+2025-03-10 00:12:31.580 +02:00 [INF] Executed action MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API) in 3.0308ms
+2025-03-10 00:12:31.581 +02:00 [INF] Executed endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)'
+2025-03-10 00:12:31.581 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.Logger`1[MagicVilla2_API.Controllers.VillaAPIController]' while attempting to activate 'MagicVilla2_API.Controllers.VillaAPIController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-10 00:12:31.610 +02:00 [DBG] Connection id "0HNAVATSUL2GU" completed keep alive response.
+2025-03-10 00:12:31.610 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5180/api/VillaAPI - - - 500 - text/plain;+charset=utf-8 66.4077ms
+2025-03-10 00:12:36.163 +02:00 [DBG] Connection id "0HNAVATSUL2GU" received FIN.
+2025-03-10 00:12:36.164 +02:00 [DBG] Connection id "0HNAVATSUL2GU" sending FIN because: "The client closed the connection."
+2025-03-10 00:12:36.164 +02:00 [DBG] Connection id "0HNAVATSUL2GU" disconnecting.
+2025-03-10 00:12:36.164 +02:00 [DBG] Connection id "0HNAVATSUL2GU" stopped.
+2025-03-10 00:18:44.784 +02:00 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-03-10 00:18:44.831 +02:00 [DBG] Hosting starting
+2025-03-10 00:18:44.886 +02:00 [INF] Now listening on: http://localhost:5180
+2025-03-10 00:18:44.886 +02:00 [DBG] Loaded hosting startup assembly MagicVilla2_API
+2025-03-10 00:18:44.886 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-03-10 00:18:44.887 +02:00 [INF] Hosting environment: Development
+2025-03-10 00:18:44.887 +02:00 [INF] Content root path: /Users/marwantarek/development/C# projects trying/MagicVilla2/MagicVilla2_API
+2025-03-10 00:18:44.887 +02:00 [DBG] Hosting started
+2025-03-10 00:18:45.271 +02:00 [DBG] Connection id "0HNAVB1DNCBFB" received FIN.
+2025-03-10 00:18:45.274 +02:00 [DBG] Connection id "0HNAVB1DNCBFB" accepted.
+2025-03-10 00:18:45.274 +02:00 [DBG] Connection id "0HNAVB1DNCBFB" started.
+2025-03-10 00:18:45.279 +02:00 [DBG] Connection id "0HNAVB1DNCBFB" sending FIN because: "The client closed the connection."
+2025-03-10 00:18:45.282 +02:00 [DBG] Connection id "0HNAVB1DNCBFB" disconnecting.
+2025-03-10 00:18:45.283 +02:00 [DBG] Connection id "0HNAVB1DNCBFB" stopped.
+2025-03-10 00:18:45.418 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" accepted.
+2025-03-10 00:18:45.424 +02:00 [DBG] Connection id "0HNAVB1DNCBFD" accepted.
+2025-03-10 00:18:45.453 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" started.
+2025-03-10 00:18:45.453 +02:00 [DBG] Connection id "0HNAVB1DNCBFD" started.
+2025-03-10 00:18:45.494 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5180/swagger/index.html - -
+2025-03-10 00:18:45.496 +02:00 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-03-10 00:18:45.532 +02:00 [DBG] No candidates found for the request path '/swagger/index.html'
+2025-03-10 00:18:45.532 +02:00 [DBG] Request did not match any endpoints
+2025-03-10 00:18:45.728 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" completed keep alive response.
+2025-03-10 00:18:45.730 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5180/swagger/index.html - - - 200 - text/html;charset=utf-8 236.6746ms
+2025-03-10 00:18:45.860 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5180/swagger/v1/swagger.json - -
+2025-03-10 00:18:45.860 +02:00 [DBG] No candidates found for the request path '/swagger/v1/swagger.json'
+2025-03-10 00:18:45.860 +02:00 [DBG] Request did not match any endpoints
+2025-03-10 00:18:45.979 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" completed keep alive response.
+2025-03-10 00:18:45.980 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5180/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 119.4942ms
+2025-03-10 00:18:46.211 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" received FIN.
+2025-03-10 00:18:46.211 +02:00 [DBG] Connection id "0HNAVB1DNCBFD" received FIN.
+2025-03-10 00:18:46.212 +02:00 [DBG] Connection id "0HNAVB1DNCBFD" sending FIN because: "The client closed the connection."
+2025-03-10 00:18:46.212 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" sending FIN because: "The client closed the connection."
+2025-03-10 00:18:46.217 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" disconnecting.
+2025-03-10 00:18:46.217 +02:00 [DBG] Connection id "0HNAVB1DNCBFD" disconnecting.
+2025-03-10 00:18:46.245 +02:00 [DBG] Connection id "0HNAVB1DNCBFD" stopped.
+2025-03-10 00:18:46.245 +02:00 [DBG] Connection id "0HNAVB1DNCBFC" stopped.
+2025-03-10 00:18:53.161 +02:00 [DBG] Connection id "0HNAVB1DNCBFE" accepted.
+2025-03-10 00:18:53.161 +02:00 [DBG] Connection id "0HNAVB1DNCBFE" started.
+2025-03-10 00:18:53.162 +02:00 [INF] Request starting HTTP/1.1 GET http://localhost:5180/api/VillaAPI - -
+2025-03-10 00:18:53.169 +02:00 [DBG] 1 candidate(s) found for the request path '/api/VillaAPI'
+2025-03-10 00:18:53.172 +02:00 [DBG] Endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)' with route pattern 'api/VillaAPI' is valid for the request path '/api/VillaAPI'
+2025-03-10 00:18:53.173 +02:00 [DBG] Request matched endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)'
+2025-03-10 00:18:53.175 +02:00 [DBG] Static files was skipped as the request already matched an endpoint.
+2025-03-10 00:18:53.177 +02:00 [WRN] Failed to determine the https port for redirect.
+2025-03-10 00:18:53.181 +02:00 [INF] Executing endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)'
+2025-03-10 00:18:53.190 +02:00 [INF] Route matched with {action = "GetVillas", controller = "VillaAPI"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[MagicVilla2_API.Models.Dto.VillaDTO]] GetVillas() on controller MagicVilla2_API.Controllers.VillaAPIController (MagicVilla2_API).
+2025-03-10 00:18:53.191 +02:00 [DBG] Execution plan of authorization filters (in the following order): ["None"]
+2025-03-10 00:18:53.191 +02:00 [DBG] Execution plan of resource filters (in the following order): ["None"]
+2025-03-10 00:18:53.191 +02:00 [DBG] Execution plan of action filters (in the following order): ["Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000)","Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)"]
+2025-03-10 00:18:53.192 +02:00 [DBG] Execution plan of exception filters (in the following order): ["None"]
+2025-03-10 00:18:53.192 +02:00 [DBG] Execution plan of result filters (in the following order): ["Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)"]
+2025-03-10 00:18:53.193 +02:00 [DBG] Executing controller factory for controller MagicVilla2_API.Controllers.VillaAPIController (MagicVilla2_API)
+2025-03-10 00:18:53.198 +02:00 [INF] Executed action MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API) in 4.0207ms
+2025-03-10 00:18:53.199 +02:00 [INF] Executed endpoint 'MagicVilla2_API.Controllers.VillaAPIController.GetVillas (MagicVilla2_API)'
+2025-03-10 00:18:53.199 +02:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.Logger`1[MagicVilla2_API.Controllers.VillaAPIController]' while attempting to activate 'MagicVilla2_API.Controllers.VillaAPIController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method3(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-03-10 00:18:53.223 +02:00 [DBG] Connection id "0HNAVB1DNCBFE" completed keep alive response.
+2025-03-10 00:18:53.224 +02:00 [INF] Request finished HTTP/1.1 GET http://localhost:5180/api/VillaAPI - - - 500 - text/plain;+charset=utf-8 61.7650ms
+2025-03-10 00:18:56.211 +02:00 [DBG] Connection id "0HNAVB1DNCBFE" received FIN.
+2025-03-10 00:18:56.211 +02:00 [DBG] Connection id "0HNAVB1DNCBFE" sending FIN because: "The client closed the connection."
+2025-03-10 00:18:56.212 +02:00 [DBG] Connection id "0HNAVB1DNCBFE" disconnecting.
+2025-03-10 00:18:56.212 +02:00 [DBG] Connection id "0HNAVB1DNCBFE" stopped.
